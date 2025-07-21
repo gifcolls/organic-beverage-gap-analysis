@@ -19,6 +19,23 @@ Identify 2–3 U.S. regions with:
 
 This will help Whole Foods prioritize partnerships or regional expansion.
 
+## Defining Organic Beverages
+
+For this analysis, organic beverages are defined as the following products based on preliminary research and available data:
+
+- Tea  
+- Coffee  
+- Kombucha  
+- Juice  
+- Syrup  
+- Ginger
+
+This definition aims to focus the analysis and is consistent with USDA organic beverage categories and market trends.
+
+**Limitations:**  
+There may be additional organic beverage products such as herbal infusions, plant-based milks, or organic sodas that are not included in this list. Future work may expand this scope as more data becomes available.
+
+
 ## 🧰 Tools Used
 
 - SQL (PostgreSQL / Mode)
@@ -29,4 +46,6 @@ This will help Whole Foods prioritize partnerships or regional expansion.
 ## 📈 Business Outcome
 
 Highlight strategic opportunities for Whole Foods to partner with suppliers or boost inventory of organic beverages in high-demand/low-supply regions.
+
+
 
